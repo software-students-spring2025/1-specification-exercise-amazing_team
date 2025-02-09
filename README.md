@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 Maya Felix - https://github.com/mxf4596
+Nicholas Michael - https://github.com/NMichael111
 
 ## Stakeholders
 
@@ -81,7 +82,8 @@ As an nyu student, I want a space away from my roommate to study
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+"As a student taking midterms, I want to be able to keep track of seat/room availability before I arrive"
+    ![Activity Diagram 1](uml1.png)
 
 ## Clickable Prototype
 
