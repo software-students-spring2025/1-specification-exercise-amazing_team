@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 Maya Felix - https://github.com/mxf4596
 Nicholas Michael - https://github.com/NMichael111
+Vladimir Kartamyshev - https://github.com/lawaldemur
 
 ## Stakeholders
 
@@ -84,6 +85,9 @@ As an nyu student, I want a space away from my roommate to study
 
 "As a student taking midterms, I want to be able to keep track of seat/room availability before I arrive"
     ![Activity Diagram 1](uml1.png)
+
+"As an NYU Student Club President, I want better access to rooms so I can have more flexibility for the times where my club can host events"
+    ![Activity Diagram 2](uml2.png)
 
 ## Clickable Prototype
 
