@@ -53,7 +53,7 @@ Andy: “I usually just assume its full”
 
 ## Product Vision Statement
 
-A mobile app letting students know what spaces are available and helping to reserve them.
+A mobile app that lets students know what spaces are available, the features of the spaces, and helps to reserve them.
 
 ## User Requirements
 
