@@ -15,20 +15,18 @@ Giulia Carvalho - https://github.com/giulia-carvalho
 
 Goals/Needs:
 
-Know when rooms are available/occupied in advance
-
-Be able to reserve rooms in advance
-
-Know what spaces are for quiet study or open discussion
-
-Sometimes you need to charge your devices while on campus
+- Know when rooms are available/occupied in advance
+- Be able to reserve rooms in advance
+- Know what spaces are for quiet study or open discussion
+- Sometimes you need to charge your devices while on campus
 
 
 Frustrations/Problems:
-It is hard to find quiet spaces on campus
-some people live far from campus and need a place to be in between their classes
-hard to coordinate back-to-back events
-it is hard to find spots for clubs to have meetings/events
+
+- It is hard to find quiet spaces on campus
+- some people live far from campus and need a place to be in between their classes
+- hard to coordinate back-to-back events
+- it is hard to find spots for clubs to have meetings/events
 
 
 
