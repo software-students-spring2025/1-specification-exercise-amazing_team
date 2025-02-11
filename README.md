@@ -33,24 +33,28 @@ Frustrations/Problems:
 Have you ever avoided reserving a room on campus because it was inconvenient?
 
 Sam: “My freshman year I didn’t even know you could reserve rooms. But even after I found out, I still didn’t really bother.”
+
 Andy: “After going to a bunch of different spots on campus I kind of figured out which ones are the least crowded and go there because I don’t want to deal with reserving or checking anything. But it would be nice to be able to go to the other spots.”
 
 
 Have you ever been in a position where you need a private space for studying?
 
 Sam: “I have a roommate so pretty much all the time.”
+
 Andy: “Yeah. I have a lot of projects that require working with other people and it’s hard to do that in many places because you need to talk.”
 
 
 Have you ever been to Bobst and there were no rooms available?
 
 Sam: “During midterms and finals, it’s impossible to find anywhere to work.”
+
 Andy: “So many times”
 
 
 Have you ever wanted to know how crowded your study spot is?
 
 Sam: “Yeah. It would be really nice to know how crowded the places are before going all the way there”
+
 Andy: “I usually just assume its full”
 
 
