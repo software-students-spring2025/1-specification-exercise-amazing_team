@@ -116,6 +116,6 @@ A mobile app that lets students know what spaces are available, the features of 
 
 ## Clickable Prototype
 
-Enjoy exploring our [Figma Prototype]([https://www.figma.com/design/Fhjqlu5c6GndXRQpAqIF0z/Spot?node-id=21-166&t=NVW2p3uVcIXIUvMU-1](https://www.figma.com/proto/Fhjqlu5c6GndXRQpAqIF0z/Spot?node-id=4-2&p=f&t=jrhHuxUUInb59I1u-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2))
+Enjoy exploring our [Figma Prototype](https://www.figma.com/proto/Fhjqlu5c6GndXRQpAqIF0z/Spot?node-id=4-2&p=f&t=jrhHuxUUInb59I1u-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2)
 
 Link to our [workspace](https://www.figma.com/design/Fhjqlu5c6GndXRQpAqIF0z/Spot?node-id=21-166&t=NVW2p3uVcIXIUvMU-1)
