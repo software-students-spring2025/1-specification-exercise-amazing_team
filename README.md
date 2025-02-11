@@ -7,8 +7,11 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 Maya Felix - https://github.com/mxf4596
+
 Nicholas Michael - https://github.com/NMichael111
+
 Vladimir Kartamyshev - https://github.com/lawaldemur
+
 Giulia Carvalho - https://github.com/giulia-carvalho
 
 ## Stakeholders
