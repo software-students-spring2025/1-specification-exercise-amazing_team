@@ -14,9 +14,13 @@ Giulia Carvalho - https://github.com/giulia-carvalho
 ## Stakeholders
 
 Goals/Needs:
+
 Know when rooms are available/occupied in advance
+
 Be able to reserve rooms in advance
+
 Know what spaces are for quiet study or open discussion
+
 Sometimes you need to charge your devices while on campus
 
 
