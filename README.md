@@ -55,7 +55,7 @@ Have you ever wanted to know how crowded your study spot is?
 
 Sam: “Yeah. It would be really nice to know how crowded the places are before going all the way there”
 
-Andy: “I usually just assume its full”
+Andy: “I usually just assume it's full”
 
 
 ## Product Vision Statement
