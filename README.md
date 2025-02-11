@@ -19,15 +19,18 @@ A little exercise to get started with the specification phase of the software de
 - Know when rooms are available/occupied in advance
 - Be able to reserve rooms in advance
 - Know what spaces are for quiet study or open discussion
-- Sometimes you need to charge your devices while on campus
+- Be able to charge devices when studying
+- Find a space with features that match your purpose
+- Boost flexibility for students when organizing group meetings and even club events
 
 
 ### Frustrations/Problems:
 
 - It is hard to find quiet spaces on campus
-- some people live far from campus and need a place to be in between their classes
-- hard to coordinate back-to-back events
-- it is hard to find spots for clubs to have meetings/events
+- It takes time to find available spaces at Bobst during midterms/finals
+- People who live far from campus need a place to be or socialize in between their classes
+- It is difficult to coordinate back-to-back events, discouraging creation of new ones
+- It is hard to find spots for clubs to host meetings/events
 
 
 
@@ -91,6 +94,10 @@ A mobile app that lets students know what spaces are available, the features of 
 - As an NYU student, I want to be able to find spots where I can work with other people on group projects.
   
 - As an NYU student, I want a space away from my roommate to study.
+
+- As an NYU student with a tight schedule, I want to avoid wasting time looking for a place.
+
+- As an NYU student with focusing issues,  I want to hold group meetings in person and be able to easily find a space that works for all team members. 
 
 
 ## Activity Diagrams
