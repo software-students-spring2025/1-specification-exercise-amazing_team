@@ -8,6 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 Maya Felix - https://github.com/mxf4596
 Nicholas Michael - https://github.com/NMichael111
 Vladimir Kartamyshev - https://github.com/lawaldemur
+Giulia Carvalho - https://github.com/giulia-carvalho
 
 ## Stakeholders
 
