@@ -108,4 +108,4 @@ A mobile app that lets students know what spaces are available, the features of 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Enjoy exploring our [Figma Prototype](https://www.figma.com/design/Fhjqlu5c6GndXRQpAqIF0z/Spot?node-id=21-166&t=NVW2p3uVcIXIUvMU-1)
