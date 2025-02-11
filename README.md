@@ -64,29 +64,29 @@ A mobile app that lets students know what spaces are available, the features of 
 
 ## User Requirements
 
-As a commuter nyu student, I want to be able to find all the spaces I can eat lunch in in between classes so that I can eat lunch on campus
+As a commuter NYU student, I want to be able to find all the spaces where I can eat lunch in in between classes so that I can eat lunch on campus.
 
-As a commuter student at nyu, I want to be able to find all the quiet spaces I can study in between classes so that I don’t have to go back home
+As a commuter student at NYU, I want to be able to find all the quiet spaces I can study in between classes so that I don’t have to go back home.
 
-As an nyu student club president, I want to be able to find more open rooms where my club can host events
+As an NYU student club president, I want to be able to find more open rooms where my club can host events.
 
-as an nyu student club president, I want better access to rooms so I can have more flexibility for the times where my club can host events 
+As an NYU student club president, I want better access to rooms so I can have more flexibility for the times where my club can host events.
 
-As a commuter nyu student I want to find more places so I can stay on campus more to make it easier to meet other people
+As a commuter NYU student I want to find more places so I can stay on campus more to make it easier to meet other people.
 
 As an NYU senior, I want to be able to coordinate my schedule with my job interviews, optimizing time and location in advance.
 
 As a student taking midterms, I want to be able to keep track of seat/room availability before I arrive. 
 
-As an NYU student I want to ensure that there is always a spot for me to study.
+As an NYU student, I want to ensure that there is always a spot for me to study.
 
 As an NYU Computer Science student, I want to know where I can charge my devices on campus.
 
-As an nyu student, I want variety in my study spots so that it is less boring
+As an NYU student, I want variety in my study spots so that it is less boring.
 
-As an nyu student, I want to be able to find spots where I can work with other people on group projects
+As an NYU student, I want to be able to find spots where I can work with other people on group projects.
 
-As an nyu student, I want a space away from my roommate to study
+As an NYU student, I want a space away from my roommate to study.
 
 
 ## Activity Diagrams
