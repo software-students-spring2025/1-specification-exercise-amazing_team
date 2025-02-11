@@ -95,16 +95,16 @@ As an NYU student, I want a space away from my roommate to study.
 ## Activity Diagrams
 
 ### Student Use Case
-"As a student taking midterms, I want to be able to keep track of seat/room availability before I arrive."
+> As a student taking midterms, I want to be able to keep track of seat/room availability before I arrive.
 
-![Activity Diagram 1](uml1.png)
+<img src="uml1.png" width="300">
 
 ---
 
 ### Club President Use Case
-"As an NYU Student Club President, I want better access to rooms so I can have more flexibility for the times where my club can host events."
+> As an NYU Student Club President, I want better access to rooms so I can have more flexibility for the times where my club can host events.
 
-![Activity Diagram 2](uml2.png)
+<img src="uml2.png" width="600">
 
 ## Clickable Prototype
 
